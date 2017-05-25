@@ -3,7 +3,7 @@
     "title": "Science has not yet mastered prophecy",
     "slug": "science-has-not-yet-mastered-prophecy",
     "layout": "trang-chi-tiet.html",
-    "category": "default",
+    "category": "default.news",
     "tag": [],
     "date": "2017-05-25T15:14:00.000Z",
     "publishDate": "",
