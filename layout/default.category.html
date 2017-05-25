@@ -26,4 +26,14 @@
    </ul>
 {{/with}}
 
+<h3>List pages of Global News</h3>
+
+{{#with (lookupCategory AllCategory 'default.news.global-news') }}
+   <ul>
+   {{#each this.files}}
+   <li><a href="/{{ this.path }}">{{ this.title }}</a></li>
+   {{/each}}
+   </ul>
+{{/with}}
+
 
