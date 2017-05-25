@@ -1,12 +1,13 @@
 ---json
 {
-    "slug": "science-has-not-yet-mastered-prophecy",
     "title": "Science has not yet mastered prophecy",
-    "category": "",
-    "tag": [],
+    "slug": "science-has-not-yet-mastered-prophecy",
     "layout": "trang-chi-tiet.html",
-    "date": "2017-05-25T15:14:29.758Z",
+    "tag": [],
+    "date": "2017-05-25T15:14:29.000Z",
     "publishDate": "",
-    "draft": false
+    "draft": false,
+    "sub-title": "We predict too much for the next year and yet far too little for the next ten.",
+    "__content__": ""
 }
 ---
