@@ -1,12 +1,13 @@
 ---json
 {
-    "slug": "man-must-explore-and-this-is-exploration-at-its-greatest",
     "title": "Man must explore, and this is exploration at its greatest",
-    "category": "",
-    "tag": [],
+    "slug": "man-must-explore-and-this-is-exploration-at-its-greatest",
     "layout": "trang-chi-tiet.html",
-    "date": "2017-05-25T15:10:59.542Z",
+    "tag": [],
+    "date": "2017-05-25T15:10:59.000Z",
     "publishDate": "",
-    "draft": false
+    "draft": false,
+    "sub-title": "Problems look mighty small from 150 miles up",
+    "__content__": ""
 }
 ---
