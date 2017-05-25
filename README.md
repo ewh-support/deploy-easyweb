@@ -1,7 +1,8 @@
 
-TRONG LUC CHO DOI EasyWeb Hoan Thien
+### Gan domain rieng cho website
 
-Su dung cach nay de cap nhat website vao thuc te, su dung github Page
+### Deploy website on Github Page
+TRONG LUC CHO DOI EasyWeb Hoan Thien, Su dung cach nay de cap nhat website vao thuc te, su dung github Page
 
 https://github.com/username/repo-name 
 
@@ -9,6 +10,8 @@ https://github.com/ewh-support/deploy-easyweb
 
 https://username.github.io/repo-name 
 https://ewh-support.github.io/deploy-easyweb/
+
+
 
 ## Folder structure
 
