@@ -3,7 +3,7 @@
     "title": "I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.",
     "slug": "i-believe-every-human-has-a-finite-number-of-heartbeats-i-don-t-intend-to-waste-any-of-mine",
     "layout": "trang-chi-tiet.html",
-    "category": "default",
+    "category": "default.news.global-news",
     "tag": [],
     "date": "2017-05-23T15:12:00.000Z",
     "publishDate": "",
