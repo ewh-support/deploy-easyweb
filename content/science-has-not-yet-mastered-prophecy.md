@@ -5,7 +5,7 @@
     "layout": "trang-chi-tiet.html",
     "category": "default.news",
     "tag": [],
-    "date": "2017-05-25T15:14:00.000Z",
+    "date": "2017-05-10 15:14",
     "publishDate": "",
     "draft": false,
     "sub-title": "We predict too much for the next year and yet far too little for the next ten.",
