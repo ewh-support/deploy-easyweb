@@ -8,6 +8,7 @@
     "publishDate": "",
     "draft": false,
     "sub-title": "Problems look mighty small from 150 miles up",
+    "auther": "QuocBao",
     "__content__": ""
 }
 ---
