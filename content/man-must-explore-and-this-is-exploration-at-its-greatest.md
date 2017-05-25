@@ -3,7 +3,7 @@
     "title": "Man must explore, and this is exploration at its greatest",
     "slug": "man-must-explore-and-this-is-exploration-at-its-greatest",
     "layout": "trang-chi-tiet.html",
-    "category": "default",
+    "category": "default.news",
     "tag": [],
     "date": "2017-05-15T15:10:00.000Z",
     "publishDate": "",
