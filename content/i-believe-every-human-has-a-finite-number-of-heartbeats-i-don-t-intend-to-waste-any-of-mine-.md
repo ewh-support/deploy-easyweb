@@ -4,7 +4,7 @@
     "slug": "i-believe-every-human-has-a-finite-number-of-heartbeats-i-don-t-intend-to-waste-any-of-mine",
     "layout": "trang-chi-tiet.html",
     "tag": [],
-    "date": "2017-05-25T15:12:55.000Z",
+    "date": "2017-05-23 15:12",
     "publishDate": "",
     "draft": false,
     "sub-title": "",
