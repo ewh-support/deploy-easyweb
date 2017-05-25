@@ -1,6 +1,12 @@
 <h1>EasyWeb</h1>
 <h3>Default Category Layout</h3>
-<p>List pages belong of: {{files.length}}</p>
+<p>List pages of AllCategory</p>
+
+<ul>
+{{#each (lookupCategory AllCategory 'tin-tuc') }}
+   <li><a href="/{{ this.path }}">{{ this.title }}</a></li>
+{{/each}}
+</ul>
 
 <h3>Pagination </h3>
 <p>List pages belong of: {{pagination.files.length}}</p>
@@ -9,4 +15,15 @@
 	<li><a href="/{{ this.path }}">{{ this.title }}</a></li>
 {{/each}}
 </ul>
+
+<h3>List pages of News</h3>
+
+{{#with (lookupCategory AllCategory 'default.news') }}
+   <ul>
+   {{#each this.files}}
+   <li><a href="/{{ this.path }}">{{ this.title }}</a></li>
+   {{/each}}
+   </ul>
+{{/with}}
+
 
